@@ -1,7 +1,7 @@
 # CTF Challenge: The Intruder (SQL Injection)
 
 ## Overview
-This repository contains "The Intruder", a custom-designed web vulnerability challenge created for the **Cyber Bootcamp Málaga**. The challenge was engineered to evaluate and train participants in web security, specifically focusing on identifying and exploiting SQL Injection (SQLi) vulnerabilities within a SQLite environment.
+This repository contains "The Intruder", a custom-designed web vulnerability challenge created for the **Cyber Bootcamp Málaga 2026**. The challenge was engineered to evaluate and train participants in web security, specifically focusing on identifying and exploiting SQL Injection (SQLi) vulnerabilities within a SQLite environment.
 
 As part of the training curriculum, the challenge intentionally avoids requiring blind injection techniques, focusing instead on fundamental set operations (`UNION`-based injections) and database schema reconnaissance.
 
